@@ -1,3 +1,18 @@
+h1 {
+
+
+color: green;
+
+
+font-weight: bold;
+
+
+text-align: center;
+
+
+}
+
+
 td, th {
 
 
@@ -5,8 +20,6 @@ td, th {
 
    border: 2px solid black;
 
-
-   font-family: Verdana;
 
 
   
@@ -30,6 +43,10 @@ table {
 
 
    margin: auto;
+   
+  font-family: Verdana;
+   
+   padding: 8px 0px 8px 0px;
 
 
   
@@ -47,30 +64,11 @@ th {
 
 
    height: 30px;
+   width:20%;
+   background-color:yellow;
 
 
 }
-
-
-
-
-
-
-
-h2 {
-
-
-color: green;
-
-
-font-weight: bold;
-
-
-text-align: center;
-
-
-}
-
 
 
 
